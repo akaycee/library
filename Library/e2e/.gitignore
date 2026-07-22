@@ -1,0 +1,7 @@
+node_modules/
+test.db
+test.db-wal
+test.db-shm
+playwright-report/
+test-results/
+.playwright/

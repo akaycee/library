@@ -1,0 +1,4 @@
+# Encrypted-at-rest SQLite (SQLCipher) — required for the packaged deployment.
+# Install after the base requirements:  pip install -r requirements-encryption.txt
+# On some platforms a system SQLCipher library is needed to build this.
+sqlcipher3-binary==0.5.4
